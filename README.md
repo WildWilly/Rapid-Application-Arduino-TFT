@@ -1,5 +1,5 @@
 # Rapid application system for Arduino TFT displays.
-Rapidly develop your Aurduino TFT dispaly using using WSIWIG GUI tools 
+Rapidly develop your Aurduino TFT display using using WSIWIG GUI tools 
 
 You know the old story. You look at a pile of examples on how to design a display for your new 3.5 inch TFT shield. First you take an Arduino Uno or what ever ATmega328P  variation you have. Print a box here and some text there. Maybe you figured out how create a routine to detect a button push. What you did find out was that the shield used most of the available ports and all of the memory. Practical use with servo's stepper motors, or sensors becomes a challenge.  The only alternative up to now would have been a Mega or start learning about STM32's 
 
